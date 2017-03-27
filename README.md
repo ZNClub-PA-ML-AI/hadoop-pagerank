@@ -21,3 +21,9 @@ Hadoop PageRank
 * **--count** (*-c*) <iterations>: the amount of iterations [**OPTIONAL**] [**DEFAULT** = **2**]
 * **--input** (*-i*) <input-dir>: the directory of the input graph [**REQUIRED**]
 * **--output** (*-o*) <output-dir>: the directory of the output result [**REQUIRED**]
+
+### Google Cloud PLatform
+
+[Installation Guide](https://github.com/GoogleCloudPlatform/bdutil/blob/master/docs/QUICKSTART.md)
+[Run Map Reduce Jobs](https://github.com/GoogleCloudPlatform/bdutil/blob/master/docs/JOBS.md)
+[Cloudera Simple Tutorial](https://www.cloudera.com/documentation/other/tutorial/CDH5/topics/ht_usage.html)
